@@ -86,7 +86,7 @@
         app.appendChild(Ul)
     }
 
-    // init
+    
     (async function(){
         const rawToken = localStorage.getItem("token")
         const token = rawToken ? rawToken.split('.') : null
