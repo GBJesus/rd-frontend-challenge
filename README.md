@@ -1,6 +1,6 @@
 # rd-frontend-challenge
 
-This is a technical challenge for Frontend Developer. 
+This is a technical challenge for Frontend Developer. This application consumes an api that returns a list of developers. But, only when the user is logged in and authenticated with his email and password
 
 ## Technologies
 
