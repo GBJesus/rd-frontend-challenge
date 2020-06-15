@@ -7,6 +7,22 @@ This is a technical challenge for Frontend Developer. This application consumes 
 HTML5, JavaScript and CSS. That simple. No libs, no frameworks, no external dependencies.
 No CSS Framework was used (Bootstrap, PureCss, etc.);
 
+## How to use
+
+To clone and run this application, you'll need Git, Node.js v10.16 or higher + Yarn v1.13 or higher installed on your computer. From your command line:
+
+```
+- Clone this repository
+$ git clone https://github.com/GBJesus/rd-frontend-challenge.git
+
+- Go into the repository
+
+- Install dependencies
+$ yarn install
+
+- Run the application in your browser
+```
+
 ## Result
 
 ### Home
@@ -22,4 +38,4 @@ No CSS Framework was used (Bootstrap, PureCss, etc.);
 ### Mouse over cards
 ![](https://github.com/hugocalheira/rd-frontend-challenge/blob/master/layouts/6.png)
 
-Made by Gustavo Barros
+Made by Gustavo Barros [Get in touch](https://www.linkedin.com/in/gustavo-gbjesus/)
